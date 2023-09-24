@@ -11,7 +11,7 @@
             <key>label</key>
             <string>Enable/Disable</string>
             <key>footerText</key>
-            <string>Snapchat restart required</string>
+            <string>Snapchat restart required 🫥</string>
         </dict>
         <dict>
             <key>cell</key>
@@ -44,7 +44,7 @@
             <key>icon</key>
             <string>snapchat.png</string>
             <key>label</key>
-            <string>Kill Snapchat</string>
+            <string>Kill Snapchat 🔪💀</string>
         </dict>
         
         <dict>
@@ -53,7 +53,7 @@
             <key>label</key>
             <string>Links</string>
             <key>footerText</key>
-            <string>© Eamon Tracey 2021</string>
+            <string>Converted to rootless by kjutzn, © Eamon Tracey 2021</string>
         </dict>
         <dict>
             <key>cell</key>
