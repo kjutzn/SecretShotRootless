@@ -8,3 +8,5 @@ Possability of getting banned using this tweak is very low, since this tweak doe
 Tested only on palera1n.
 
 All bugs can be reported in GitHub issues
+
+**Also DO NOT CONTACT EAMON FOR ANY BUGS WITH ROOTLESS VERSION**
